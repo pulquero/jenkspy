@@ -5,3 +5,6 @@ include README.rst
 include LICENSE
 include tests/*.*
 include requirements.txt
+
+# include platform binaries
+include jenkspy/*.so
